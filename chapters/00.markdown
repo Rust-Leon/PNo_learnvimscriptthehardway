@@ -41,3 +41,6 @@ To easily find the location and name of the file on *any* operating system, run
 screen.
 
 Create this file if it doesn't already exist.
+
+==Note==: *On Windows this file is named as _vimrc and should be located in 
+C:\Users\<username>. For me, it is C:\Users\zl37\_vimrc*
