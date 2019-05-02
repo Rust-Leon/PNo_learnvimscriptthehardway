@@ -53,6 +53,12 @@ This doesn't *always* work (that's one of those ugly corners of Vimscript), but
 in most cases it does.  Later we'll talk about when it won't (and why that
 happens).
 
+**NOTE**
+The first command starts with `"` is just a comment and will be ignored by Vim.
+The second line means in the `normal` mode map the `space` key to the command `za`, which
+is used when you want to fold or unfold a block of text. Find more ![here](https://vim.fandom.com/wiki/Folding).
+Don't worry if you can't understand this for now. In later chapters there will be more detailed explanations. 
+
 Exercises
 ---------
 
@@ -65,7 +71,7 @@ Read `:help :messages`.
 Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
 
-**Notes**
+**NOTE**
 
 I added this line to the very beginning of my `_vimrc`:
 `echom "(>^.^<)"`
