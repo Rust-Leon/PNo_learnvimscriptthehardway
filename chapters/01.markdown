@@ -66,6 +66,7 @@ Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
 
 **Notes**
+
 I added this line to the very beginning of my `_vimrc`:
 `echom "(>^.^<)"`
 
