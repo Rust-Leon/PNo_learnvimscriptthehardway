@@ -64,3 +64,12 @@ Read `:help :messages`.
 
 Add a line to your `~/.vimrc` file that displays a friendly ASCII-art cat
 (`>^.^<`) whenever you open Vim.
+
+**Notes**
+I added this line to the very beginning of my `_vimrc`:
+`echom "(>^.^<)"`
+
+And if I open Vim from terminal (cmd.exe on Windows),
+- first I got this cute ASCII sign,
+- then Vim asks me to PRESS ENTER OR ANY COMMAND TO CONTINUE,
+- do it and you will start Vim all the same as uasual. 
