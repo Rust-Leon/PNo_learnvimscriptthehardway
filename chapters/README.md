@@ -1,5 +1,5 @@
 # What is this?
-This **MY PERSONAL** notes taken along reading Steve's excellent book.
+This **MY OWN** notes taken along reading Steve's excellent book.
 
 The book, though, is by no means exhaustive, so I'm trying to add some explanatory notes to some places.
 
